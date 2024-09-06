@@ -1,0 +1,243 @@
+Chapter	Category	Location	Text
+1	state	Goliadkin's apartment	"__ ______ ___ _________, _________ __ __ ___ ___ ___ ____, _____ __ _ _ ________________ __ ___, ___ _____ ____ ______ ___________, ___ Ñ ___________ ___ _____________ ______ ____."
+1	spatial	Goliadkin's apartment	"__________-___________, __________, _______ _____ ___ _________ ________,"
+1	temporal	Goliadkin's apartment	_______ ____
+1	spatial	Goliadkin's apartment	_____
+1	spatial	Goliadkin's apartment	_____
+1	spatial	Goliadkin's apartment	_______
+1	spatial	Goliadkin's apartment	______ ______
+1	spatial	Goliadkin's apartment	"________, __________ __ __________ ________, _ _____ ________ __________ _____ _ ____, ________ __________ ___ _____"
+1	spatial	Goliadkin's apartment	________
+1	spatial	Goliadkin's apartment	_______
+1	spatial	Nevskii Prospekt	______ ______
+1	spatial	Nevskii Prospekt	____
+1	spatial	Nevskii Prospekt	________ ____
+1	spatial	Rutenshpits's office	________
+1	spatial	Rutenshpits's office	_________
+1	spatial	Rutenshpits's office	______
+1	spatial	Rutenshpits's office	__ ________ ___-__ ____
+1	spatial	Rutenshpits's office	______
+2	spatial	Rutenshpits's office	_______ _____
+2	spatial	Rutenshpits's office	__ ____ _ ____
+2	spatial	Rutenshpits's office	________
+2	spatial	Rutenshpits's office	__ _______
+2	spatial	Rutenshpits's office	____
+2	spatial	Rutenshpits's office	_________ _ ______
+3	spatial	Liteinyi Prospekt	________
+3	spatial	Olsufii Ivanovich's house	______ __ _______
+3	spatial	Olsufii Ivanovich's house	________
+3	spatial	Olsufii Ivanovich's house	_______ _ ___ _____ _________ _______ _ ________
+3	spatial	Olsufii Ivanovich's house	__ ___ _______ __ ________
+3	spatial	Olsufii Ivanovich's house	__________ __ __ ______ _ _______ __ ________
+3	spatial	Olsufii Ivanovich's house	_________ _____ ___ __ ______ ________ ________
+3	spatial	Olsufii Ivanovich's house	____________ _ ____ ________
+3	spatial	Olsufii Ivanovich's house	__ ________
+3	spatial	Olsufii Ivanovich's house	_____
+3	atmosphere	Olsufii Ivanovich's house	"_____ ___ __ ________, _____, ___________ ______ _ ____, ________ _____ ______"
+3	spatial	Olsufii Ivanovich's house	_ ________
+3	spatial	Olsufii Ivanovich's house	_____ __ _______
+3	spatial	Olsufii Ivanovich's house	_____ _______ ____
+3	spatial	Olsufii Ivanovich's house	____
+3	spatial	Olsufii Ivanovich's house	____
+3	spatial	Semenovskii Bridge	_ ____ ________
+3	state	Olsufii Ivanovich's house	"___________ __________ ________ _____________ _____ _____ _____ ___ ____ _ _____, _ _______ _ __ ______"
+3	spatial	Olsufii Ivanovich's house	"__ _______, _______ _____ ________ _____ _ ____, __ ______ ________"
+4	state	Olsufii Ivanovich's house	"_ _______, __________ _______, __ __ ___ __ ______ _______, ____________ Ñ __ _ ______, _ _____ __ _______"
+4	spatial	Olsufii Ivanovich's house	__ _____ _ __ ________ _________ ____
+4	state	Olsufii Ivanovich's house	"___ __, _______, _ ________ ______ ___________, _ ________ __ _____ ___ ____ _ _________"
+4	spatial	Olsufii Ivanovich's house	"___ ____ __ _______ _ _______ ______; ______ _______; ________ ________, _ _ ___ ___ ______"
+4	spatial	Olsufii Ivanovich's house	_ ___ ____ ________ __ _ _____ _ ___ ____ ________ __
+4	spatial	Olsufii Ivanovich's house	"______ _______ ______, ______ _______ _____ ___ ______ _ ___"
+4	spatial	Olsufii Ivanovich's house	________ _____ ___ ___ _ ____
+4	state	Olsufii Ivanovich's house	"___ __ ______ __ ______, ______ __ _____, __ __ ___ ________... __ __ __ ___ __ ___ ________; __ _______ _____ _ _____ __ ___ _ _____ ____, ___ ____"
+4	spatial	Olsufii Ivanovich's house	________ ____-______ _ ______
+4	spatial	Olsufii Ivanovich's house	__ ______ ______ _ ____ _ ___ ___ ___________
+4	spatial	Olsufii Ivanovich's house	________ ______ ____ __ __ __ ______ _____ __________
+4	state	Olsufii Ivanovich's house	___ _ _____-__ _________ _____________ __________ _ _____-__ _______
+4	spatial	Olsufii Ivanovich's house	___ ____ _____ _ ______
+5	temporal	Izmailovskii Bridge	_____ _______
+5	state	Izmailovskii Bridge	"___ ____, Ñ ____ ______, _ ______ ______ _____, _ ____ ________ _ _________ ______ ___________ ______, __ ___________ __ ______-__ ____, __ ____, ________ __ ___, _______, ______ ___________"
+5	atmosphere	Izmailovskii Bridge	________
+5	atmosphere	Izmailovskii Bridge	"________ _______, __________, ___________, ______, _________ ____ _________ _____ _ ______Ñ_____ ______, _____ ______ ______________ ______"
+5	atmosphere	Izmailovskii Bridge	___ _____ _ ____ _____
+5	state	Fontanka Embankment	______ _ ____ _ _ __________ _____
+5	state	Fontanka Embankment	"___ _____ ___ __ ____ ____-__ __________ _____, ___ _____ ___ __ ____ _______ ____-______ _____"
+5	state	Fontanka Embankment	"__ ______ _____ ______ _______ __ ____ ______, __ ____ ______ ____________, __ ____, _ ____ __________"
+5	state	Fontanka Embankment	"__ __ ______ ______ ___________, __ _______ ______, ___ ______ ____ ________, _ _______ ___, ___ _____ __ ___ ____ __ ____________ __ _____ ____ __ _____________ _________ ____, __ _______ ____, __ _____, __ _____, __ _____, __ ____ ______ ________."
+5	state	Fontanka Embankment	"__ ______, _______"
+5	spatial	Fontanka Embankment	__ ______ __________
+5	spatial	Fontanka Embankment	______ ____ ________
+5	state	Fontanka Embankment	"_____ __ _____, _____ __ _____... ____________ ______ ________ __ _____ ___"
+5	atmosphere	Fontanka Embankment	___ _____ _____ ________ ___ ______
+5	state	Fontanka Embankment	_______
+5	atmosphere	Fontanka Embankment	_ _______ ________
+5	spatial	Fontanka Embankment	__ ________ ________
+5	atmosphere	Fontanka Embankment	_______ _________ _ ____ __ _____
+5	motion	Fontanka Embankment	_________ ____ ____
+5	spatial	Anichkov Bridge	_______ ____
+5	spatial	Liteinyi Prospekt	________
+5	state	Liteinyi Prospekt	___ ________ __________
+5	motion	Liteinyi Prospekt	________
+5	spatial	Liteinyi Prospekt	______
+5	spatial	Ital'ianskaia Street	__ ________
+5	spatial	Goliadkin's apartment	___ ______
+5	spatial	Goliadkin's apartment	__ ____
+5	spatial	Goliadkin's apartment	_____ __ __ ________
+5	spatial	Goliadkin's apartment	________
+5	spatial	Goliadkin's apartment	______
+5	spatial	Goliadkin's apartment	__ ___ ________
+5	spatial	Goliadkin's apartment	______ ______
+5	spatial	Goliadkin's apartment	_____
+5	spatial	Goliadkin's apartment	__________
+5	spatial	Goliadkin's apartment	__ ______ _____ _______
+6	motion	Goliadkin's apartment	________
+6	motion	Goliadkin's apartment	________
+6	spatial	Goliadkin's apartment	__ ____________
+6	spatial	Goliadkin's apartment	_____
+6	spatial	Goliadkin's office	_____
+6	state	Goliadkin's office	___________ _ ________ _ _____
+6	state	Goliadkin's office	"__ ____ ____, _______, ___________ _ ___________ _____________ _____"
+6	state	Goliadkin's office	"_____ __ __________ _______ _ ______ _ ______. _________ _____ ______ _________, __ _______, ___ __________ _ ______________ _____ _____ __ ______"
+6	motion	Goliadkin's office	_____ _ ______
+6	spatial	Goliadkin's office	_______
+6	state	Goliadkin's office	_____ __ _______ _______
+6	spatial	Nevskii Prospekt	___________
+7	spatial	Goliadkin's apartment	__ ________
+7	spatial	Goliadkin's apartment	___ _____
+7	spatial	Goliadkin's apartment	_____
+7	spatial	Goliadkin's apartment	__ ____
+7	spatial	Goliadkin's apartment	__ _______
+7	spatial	Goliadkin's apartment	_ ______
+8	spatial	Goliadkin's apartment	_____
+8	spatial	Goliadkin's apartment	____
+8	spatial	Goliadkin's apartment	____
+8	spatial	Goliadkin's office	________
+8	spatial	Goliadkin's office	_____
+8	spatial	Goliadkin's office	_____
+8	spatial	Goliadkin's office	______
+8	spatial	Goliadkin's office	______
+8	state	Goliadkin's office	___ __ ______ _______ ____ _____ ______________. __ ___ __ _________
+8	state	Goliadkin's office	"________ _ ___________ ________ ___ ____ ______, ______ __________, __ ___ ______ _____ ________"
+8	spatial	Goliadkin's office	______
+8	state	Goliadkin's office	___ __ _ _________ __________
+8	state	Goliadkin's office	"__ ______-__, __ ___ __ ______ ______ ____, ___ ___ _________, __ ____, _____ _______, _____ __ ____"
+8	temporal	Goliadkin's office	____ _______ __________ _____
+8	spatial	Goliadkin's office	________
+8	spatial	Goliadkin's office	________
+9	state	Goliadkin's apartment	_____ _________ __ ___-__
+9	spatial	Goliadkin's apartment	________
+9	spatial	Goliadkin's apartment	________
+9	spatial	Andrei Filippovich's apartment	______
+9	spatial	Andrei Filippovich's apartment	_____
+9	spatial	Andrei Filippovich's apartment	________
+9	state	Nevskii Prospekt	__ ________ ______ _ ___ _____ __ ____ ____
+9	spatial	a restaurant	________
+9	spatial	a restaurant	______
+9	spatial	a restaurant	______
+9	spatial	a restaurant	______
+9	state	a restaurant	___ __ _ _________
+9	spatial	a restaurant	______ _____
+9	spatial	a restaurant	________ __ _______
+9	spatial	a restaurant	_________ _________
+9	spatial	a restaurant	_______
+9	state	Goliadkin's apartment	"_____ ____ __ __________, __ __________ __ ___ __________ __ _ ___"
+9	spatial	Olsufii Ivanovich's house	____ ______ _________ ____
+9	state	Olsufii Ivanovich's house	_______ _________ _______
+9	spatial	Olsufii Ivanovich's house	_____
+9	spatial	Goliadkin's apartment	____________
+9	temporal	Goliadkin's apartment	"_____ ____, ____ ___ ___ ___"
+9	spatial	Goliadkin's apartment	____________
+9	spatial	Goliadkin's apartment	___________
+9	spatial	Goliadkin's apartment	___________
+9	spatial	Goliadkin's apartment	___________
+9	state	Goliadkin's apartment	__ ___ __ _____
+9	state	Goliadkin's apartment	____ _______ _ __________ _____
+9	state	Goliadkin's apartment	_______ _______ ________
+9	motion	Goliadkin's apartment	__________ ____ __ ______ _ ______ _ ________ ___ _ ______ __ _______
+9	state	Goliadkin's apartment	_ ______ _ ________
+10	state	Goliadkin's apartment	"_____-__ _______, __________,"
+10	state	Goliadkin's office	__ _____ __ _______
+10	spatial	Goliadkin's office	____
+10	spatial	Goliadkin's office	_______
+10	spatial	Goliadkin's office	_______
+10	spatial	Goliadkin's office	______
+10	spatial	Goliadkin's office	________
+10	spatial	Goliadkin's office	________
+10	spatial	Goliadkin's office	_____
+10	spatial	Goliadkin's office	_______
+10	spatial	Goliadkin's office	______
+10	spatial	Goliadkin's office	_______
+10	spatial	Goliadkin's office	_____
+10	state	Goliadkin's office	_ __________ ___ ________ ___ _____  __________
+10	spatial	Goliadkin's office	________
+10	spatial	Goliadkin's office	________
+10	temporal	Goliadkin's office	_______
+10	temporal	Goliadkin's office	_______
+10	spatial	Goliadkin's office	____
+10	spatial	Goliadkin's office	_____
+10	state	Goliadkin's office	"_____ __ ___ __ ____, ___ _____, ___ ______, ___ _____, ___ _ ___ _________ _ ___ ___ _____ ______ _ ___, Ñ ___ _______ ___ _ ________ ___ __ _________ _ ___ _ ___ ___________"
+10	spatial	Goliadkin's office	______
+10	spatial	Goliadkin's office	________
+10	spatial	Goliadkin's office	________
+10	spatial	Goliadkin's office	______
+10	spatial	Goliadkin's office	______
+10	spatial	Goliadkin's office	________
+10	spatial	Goliadkin's office	_____
+11	state	Nevskii Prospekt	"__________ __ ___, ___ ____ _ _____ __________, ___ _____ ___ _____-__ __________ _________ _ ___________ _____, ___ __ _____ __ ___ ____, ___, ________, ___ ____ _____________ _ _______ ____________"
+11	state	Nevskii Prospekt	"______ __ _______ _______, ______ _______ ________, ______ ______ _______"
+11	spatial	Nevskii Prospekt	"____ _____ _____ __ _____ _________ ______, _ ______ ___ ____ ___ _________ _______ __ ______ _______ _______, ______ _____ __ __ _______, ________ _________ _______ _ ______ _ ___ ________ _____ ______ ________ ______ ____"
+11	spatial	a cafe	_______
+11	spatial	a cafe	_____ ______
+11	atmosphere	Nevskii Prospekt	_____ _ __ _____ __ ___
+11	state	Nevskii Prospekt	"__________, ___ _________ _ ___ ___-__ ________. ____ _________ __ ________ __________, __ ______________ __ __ ____-______ _____... __ ___ ________..."
+11	spatial	Olsufii Ivanovich's house	_____
+11	spatial	Olsufii Ivanovich's house	____
+11	spatial	Olsufii Ivanovich's house	_______
+11	atmosphere	Olsufii Ivanovich's house	"_____, _____ _ _____"
+11	state	Olsufii Ivanovich's house	___ ___ ______ _ ________ __ __ ___ __ _____ ________
+11	state	a tavern	___ __ __________
+11	state	a tavern	___________ _ ____ __________
+11	state	a tavern	"___ ___ _ ________, __ ____ ______, __ _____ ______, __ ________ ______..."
+11	spatial	Goliadkin's apartment	_____ ________ _____
+12	state	Goliadkin's apartment	"__ _ _________ ___________ _ _____. ______ __ _ ___ __ __ ___, ______ ___-______ ____ __ ___; __ _ ___ __ ____, ___ _ ___ ________"
+12	spatial	Goliadkin's apartment	____
+12	spatial	Goliadkin's apartment	________
+12	spatial	Goliadkin's apartment	________
+12	spatial	Goliadkin's apartment	____
+12	state	Goliadkin's apartment	"__ ___ __ _______É ___ ___ ____, ___ ___ ______, ___ ___ _ _________ _ ___________ ______ _________É"
+12	temporal	Liteinyi Prospekt	"____ ________, _____ ____, ___ _____,"
+12	spatial	His Excellency's apartment	________ ___ __________________
+12	spatial	His Excellency's apartment	__ ______ _________ _______
+12	state	His Excellency's apartment	"__ __ ____, ___ _____... ____ ___-__ ______ _ _______ ___. ___ _____, ___ ____ _____..."
+12	spatial	His Excellency's apartment	_ ______
+12	spatial	His Excellency's apartment	________ ______ __ _______
+12	spatial	His Excellency's apartment	_ ______
+12	spatial	His Excellency's apartment	________
+12	spatial	His Excellency's apartment	________
+12	spatial	His Excellency's apartment	________
+12	spatial	His Excellency's apartment	________
+12	spatial	His Excellency's apartment	_______
+12	state	His Excellency's apartment	"__ ___ ___ ____, ___ __________ __ ______, ___ _ ___ _______ ___ _ ______"
+13	spatial	Olsufii Ivanovich's house	______ _ _____
+13	spatial	Olsufii Ivanovich's house	_____
+13	spatial	Olsufii Ivanovich's house	_____
+13	state	Olsufii Ivanovich's house	"__ _____ ___-__ __ _ ___ __ ________ _ ___ ______. ________ _____-__ ____, _____________, __ ______, __ _____, _____-__ _____ _______ ____________, _____ _ ______ _____-__ ______ _____-__ ______ _____... _____, _____ ____ ______________!"
+13	state	Olsufii Ivanovich's house	____________ ______ _ ______ ____ __ ____ _______ ______...
+13	spatial	Olsufii Ivanovich's house	_____
+13	spatial	Olsufii Ivanovich's house	_______
+13	spatial	Olsufii Ivanovich's house	_______
+13	state	Olsufii Ivanovich's house	"__________ ___ __ ____, ___ _ ___ ________. __ __ ___ ______, ______!"
+13	state	Olsufii Ivanovich's house	"_____ _______ ______, _______ _ ______, _ _______..."
+13	state	Olsufii Ivanovich's house	________ ______ ____-__ __ ______ _____________
+13	state	Olsufii Ivanovich's house	____-__ _____________ _______
+13	spatial	Olsufii Ivanovich's house	______
+13	state	Olsufii Ivanovich's house	"_ __________, _ ______ _____"
+13	spatial	Olsufii Ivanovich's house	________
+13	spatial	Olsufii Ivanovich's house	________
+13	spatial	Olsufii Ivanovich's house	_______
+13	spatial	Olsufii Ivanovich's house	_______
+13	spatial	Olsufii Ivanovich's house	________
+13	spatial	Olsufii Ivanovich's house	________
+13	spatial	Olsufii Ivanovich's house	________
+13	spatial	Olsufii Ivanovich's house	_____ _______ ________ ________
+13	spatial	Olsufii Ivanovich's house	"___________ __ _____ ____ _ ________ __ ___, __________ _ ____ ____ ______"
